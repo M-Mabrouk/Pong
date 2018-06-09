@@ -1,2 +1,2 @@
 # Pong
-a Pong clone made for GD50
+a Pong clone made for CSCI E-23a
