@@ -1,2 +1,2 @@
 # Pong
-a Pong clone made for CSCI E-23a
+Made for CSCI E-23a
